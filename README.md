@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**andreademasi/andreademasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+<h1 align="center"><hr>Hello! My name is Andrea.<hr></h1>
+<h2><u>Github Stats:</u></h2>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=rk134&show_icons=true&theme=synthwave"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreademasi&layout=compact"></p>
+<h2><u>Contact:</u></h2>
+  <p>
+    <a href="https://t.me/gugolmaps"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0"/></a>
+    <a href="andreademasi80@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+  </p>
+<hr>
+</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andreademasi&label=Profile%20Views&color=000000&style=flat"> </p>

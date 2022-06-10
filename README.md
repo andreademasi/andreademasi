@@ -6,7 +6,7 @@
 <h2><u>Contact:</u></h2>
   <p>
     <a href="https://t.me/gugolmaps"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=2CA5E0"/></a>
-    <a href="andreademasi80@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+    <a href="mailto:andreademasi80@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
   </p>
 <hr>
 </div>

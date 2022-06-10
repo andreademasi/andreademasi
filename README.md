@@ -1,7 +1,7 @@
 <div align="left">
 <h1 align="center"><hr>Hello! My name is Andrea.<hr></h1>
 <h2><u>Github Stats:</u></h2>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=rk134&show_icons=true&theme=synthwave"></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=andreademasi&show_icons=true&theme=synthwave"></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreademasi&layout=compact"></p>
 <h2><u>Contact:</u></h2>
   <p>

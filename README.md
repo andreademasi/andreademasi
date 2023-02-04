@@ -1,5 +1,5 @@
 # Andrea
-### Computer engineering student & Lead Developer@[openW2G](https://github.com/openw2g/openW2G)
+### Computer engineering student & Lead Developer@[Synclify](https://github.com/synclify/Synclify)
 
 
 

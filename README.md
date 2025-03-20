@@ -1,11 +1,11 @@
 # Andrea
-### Computer engineering student & Lead Developer@[Synclify](https://github.com/synclify/Synclify)
+### Software engineer@[Tiledmeia](https://tiledmedia.com) & Lead Developer@[Synclify](https://github.com/synclify/Synclify)
 
 
 
  <a aligh="left" href="mailto:andreademasi80@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/andrea-de-masi" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-⚐ Based in Italy
+⚐ Based in the Netherlands 
 
 ϟ Currently building Synclify
 

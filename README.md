@@ -1,5 +1,5 @@
 # Andrea
-### Software engineer@[Tiledmeia](https://tiledmedia.com) & Lead Developer@[Synclify](https://github.com/synclify/Synclify)
+### Software engineer@[Tiledmedia](https://tiledmedia.com) & Lead Developer@[Synclify](https://github.com/synclify/Synclify)
 
 
 
